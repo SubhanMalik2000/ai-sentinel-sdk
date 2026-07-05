@@ -1,0 +1,6 @@
+# Runtime dependencies for ai-sentinel SDK
+# Add HTTP client (e.g. httpx) and other runtime deps here as the SDK evolves.
+
+# Development dependencies (install via: pip install -e ".[dev]")
+# pytest>=8.0
+# pytest-cov>=5.0
